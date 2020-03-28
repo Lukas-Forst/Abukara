@@ -14,3 +14,7 @@ For creating the CNN pytorch and python is used.
 - 5 Normalization Batch: after each Conv. Layer batch normalization is used for the filter
 - 2 linear Layers at the End: the first gets activated with a Relu function
 - Dropout Layer: is used with a probability of 0.5
+
+# Example classification
+
+![ClassificationExample](https://raw.githubusercontent.com/Lukas-Forst/DeepLearning/master/DogBreed%20Classification/Example%20picture.png)
