@@ -1,2 +1,1 @@
-# Abukara
 Bikesharing-Prediction
